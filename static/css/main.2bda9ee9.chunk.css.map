@@ -1,0 +1,1 @@
+{"version":3,"sources":["covid.css"],"names":[],"mappings":"AAAA,OACI,aAAc,CACd,SAAU,CACV,eAAgB,CAChB,gBACF","file":"main.2bda9ee9.chunk.css","sourcesContent":[".covid {\r\n    display: block;\r\n    width: 30%;\r\n    max-width: 240px;\r\n    margin: 20px auto;\r\n  }\r\n  "]}
