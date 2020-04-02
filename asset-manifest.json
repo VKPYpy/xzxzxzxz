@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/vkpypy.github.io/static/js/main.7b640e99.chunk.js",
+    "main.js.map": "/vkpypy.github.io/static/js/main.7b640e99.chunk.js.map",
+    "runtime-main.js": "/vkpypy.github.io/static/js/runtime-main.cda306a7.js",
+    "runtime-main.js.map": "/vkpypy.github.io/static/js/runtime-main.cda306a7.js.map",
+    "static/css/2.86df01db.chunk.css": "/vkpypy.github.io/static/css/2.86df01db.chunk.css",
+    "static/js/2.7268cb36.chunk.js": "/vkpypy.github.io/static/js/2.7268cb36.chunk.js",
+    "static/js/2.7268cb36.chunk.js.map": "/vkpypy.github.io/static/js/2.7268cb36.chunk.js.map",
+    "index.html": "/vkpypy.github.io/index.html",
+    "precache-manifest.f35af83ad83454eb8232c1657663181b.js": "/vkpypy.github.io/precache-manifest.f35af83ad83454eb8232c1657663181b.js",
+    "service-worker.js": "/vkpypy.github.io/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/vkpypy.github.io/static/css/2.86df01db.chunk.css.map",
+    "static/js/2.7268cb36.chunk.js.LICENSE.txt": "/vkpypy.github.io/static/js/2.7268cb36.chunk.js.LICENSE.txt",
+    "static/media/covid.png": "/vkpypy.github.io/static/media/covid.5aef0f70.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda306a7.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.7268cb36.chunk.js",
+    "static/js/main.7b640e99.chunk.js"
+  ]
+}
